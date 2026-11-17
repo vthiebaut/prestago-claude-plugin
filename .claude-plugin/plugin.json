@@ -8,6 +8,15 @@
     "url": "https://prestago-app.fr"
   },
   "homepage": "https://prestago-app.fr/assistants-ia/",
+  "privacyPolicyUrl": "https://prestago-app.fr/vie-privee/",
+  "icon": ".claude-plugin/icon.png",
   "license": "LicenseRef-Prestago",
-  "keywords": ["planning", "cesu", "aide à domicile", "rendez-vous", "heures", "auto-entrepreneur"]
+  "keywords": [
+    "planning",
+    "cesu",
+    "aide à domicile",
+    "rendez-vous",
+    "heures",
+    "auto-entrepreneur"
+  ]
 }
