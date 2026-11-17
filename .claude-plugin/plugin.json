@@ -1,0 +1,13 @@
+{
+  "name": "prestago",
+  "displayName": "Prestago",
+  "version": "1.0.0",
+  "description": "Planning, heures, clients et finances Prestago pour les intervenants à domicile (CESU, auto-entrepreneurs) : consulter et modifier son agenda, trouver un créneau, obtenir un bilan ou un PDF.",
+  "author": {
+    "name": "Prestago",
+    "url": "https://prestago-app.fr"
+  },
+  "homepage": "https://prestago-app.fr/assistants-ia/",
+  "license": "LicenseRef-Prestago",
+  "keywords": ["planning", "cesu", "aide à domicile", "rendez-vous", "heures", "auto-entrepreneur"]
+}

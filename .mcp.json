@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "prestago": {
+      "type": "http",
+      "url": "https://api.prestago-app.fr/mcp"
+    }
+  }
+}
